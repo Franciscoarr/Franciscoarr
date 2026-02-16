@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="130" src="https://media1.tenor.com/m/SIAiO7He2f4AAAAd/ronaldo-meme-ronaldo.gif"  />
+<img align="center" height="130" src="https://media1.tenor.com/m/SIAiO7He2f4AAAAd/ronaldo-meme-ronaldo.gif"  />
 
 ###
 
@@ -120,9 +120,13 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=Franciscoarr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Franciscoarr&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscoarr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Franciscoarr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Franciscoarr&theme=tokyonight&hide_border=false" alt="GitHub Streaks" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscoarr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&text=%F0%9F%94%97%20Social%20Media%20%20%20%20%20%20%20%20%20%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=58&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
