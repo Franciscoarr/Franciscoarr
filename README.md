@@ -1,12 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&text=%F0%9F%92%AB%20About%20Me%20%20%20%20%20%20%20%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=58&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&text=%F0%9F%92%AB%20About%20Me%20%20%20%20%20%20%20%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=58&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://media1.tenor.com/m/SIAiO7He2f4AAAAd/ronaldo-meme-ronaldo.gif"  />
+<img align="right" height="130" src="https://media1.tenor.com/m/SIAiO7He2f4AAAAd/ronaldo-meme-ronaldo.gif"  />
 
 ###
 
@@ -15,13 +13,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=35&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&text=%F0%9F%92%BB%20Tech%20Stack%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=58&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&text=%F0%9F%92%BB%20Tech%20Stack%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=58&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
@@ -123,34 +115,17 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&text=%F0%9F%93%8A%20GitHub%20Stats%20%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=58&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&text=%F0%9F%93%8A%20GitHub%20Stats%20%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=58&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Franciscoarr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Franciscoarr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
+![](https://github-readme-stats.vercel.app/api?username=Franciscoarr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Franciscoarr&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscoarr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&text=%F0%9F%94%97%20Social%20Media%20%20%20%20%20%20%20%20%20%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=58&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&text=%F0%9F%94%97%20Social%20Media%20%20%20%20%20%20%20%20%20%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=58&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
@@ -165,5 +140,3 @@
 </div>
 
 ###
-
-
