@@ -4,23 +4,13 @@
 
 ###
 
-<img align="center" height="130" src="https://media1.tenor.com/m/SIAiO7He2f4AAAAd/ronaldo-meme-ronaldo.gif"  />
+<h3 align="left">🎓 2nd-year student of Multiplatform Application Development (DAM)<br>💻 Passionate about programming and software development<br>🎮 Video game enthusiast with interest in game mechanics and design<br>🚀 Constantly learning and improving my skills</h3>
 
 ###
 
-<table align="center" border="0">
-  <tr>
-    <td width="70%" align="left">
-      <h3>🎓 2nd-year student of Multiplatform Application Development (DAM)</h3>
-      <h3>💻 Passionate about programming and software development</h3>
-      <h3>🎮 Video game enthusiast with interest in game mechanics and design</h3>
-      <h3>🚀 Constantly learning and improving my skills</h3>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media1.tenor.com/m/SIAiO7He2f4AAAAd/ronaldo-meme-ronaldo.gif" width="150" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=header&reversal=false&text=%F0%9F%92%BB%20Tech%20Stack%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=58&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
 
 ###
 
